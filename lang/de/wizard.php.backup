@@ -4,13 +4,12 @@ declare(strict_types=1);
 
 return [
     'submit' => [
-<<<<<<< HEAD
-        'label' => 'Finish',
-=======
 
-        'label' => 'Finish',
+=======
+        'label' => 'Abschließen',
+=======
         'label' => 'Concludi',
+=======
         'label' => 'Concludi',
->>>>>>> a14d070 (.)
     ],
 ];

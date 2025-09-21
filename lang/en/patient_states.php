@@ -43,6 +43,10 @@ return [
         'label' => 'Integration Cancelled',
         'color' => 'danger',
     ],
+<<<<<<< HEAD
+=======
+
+>>>>>>> a14d070 (.)
     'suspended' => [
         'label' => 'Suspended',
         'color' => 'warning',
