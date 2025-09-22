@@ -4,7 +4,10 @@ declare(strict_types=1);
 
 return [
     'nav' => [
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
         'menu' => 'Menü',
         'close' => 'Schließen',
         'home' => 'Startseite',
@@ -27,6 +30,7 @@ return [
         'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
         'max' => 'Das Feld darf nicht mehr als :max Zeichen enthalten',
         'submit' => 'Absenden',
+<<<<<<< HEAD
         'menu' => 'Menu',
         'close' => 'Chiudi',
         'home' => 'Home',
@@ -55,6 +59,8 @@ return [
         'submit' => 'Senden',
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
         'cancel' => 'Abbrechen',
         'save' => 'Speichern',
         'delete' => 'Löschen',
@@ -65,7 +71,10 @@ return [
         'reset' => 'Zurücksetzen',
         'select' => 'Auswählen',
         'choose' => 'Wählen...',
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
     ],
     'messages' => [
         'success' => 'Vorgang erfolgreich abgeschlossen',
@@ -88,6 +97,7 @@ return [
         'cookies' => 'Cookie-Richtlinie',
         'social' => [
             'follow' => 'Folgen Sie uns auf',
+<<<<<<< HEAD
 
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
@@ -129,6 +139,8 @@ return [
             'follow' => 'Seguici su',
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
             'facebook' => 'Facebook',
             'twitter' => 'Twitter',
             'instagram' => 'Instagram',
@@ -137,7 +149,10 @@ return [
     ],
     'errors' => [
         404 => [
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
             'title' => 'Seite nicht gefunden',
             'message' => 'Die gesuchte Seite existiert nicht',
         ],
@@ -154,6 +169,7 @@ return [
             'message' => 'Sie sind nicht mit dem Internet verbunden',
         ],
     ],
+<<<<<<< HEAD
 ];
             'title' => 'Pagina non trovata',
             'message' => 'La pagina che stai cercando non esiste',
@@ -174,3 +190,6 @@ return [
 ];
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+];
+>>>>>>> d7ab3bb (.)

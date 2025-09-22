@@ -4,9 +4,12 @@ declare(strict_types=1);
 
 return [
     'login' => [
+<<<<<<< HEAD
 
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
         'title' => 'Anmelden bei Ihrem Konto',
         'or' => 'oder',
         'create_account' => 'neues Konto erstellen',
@@ -16,7 +19,10 @@ return [
         'password' => 'Passwort',
         'remember_me' => 'Angemeldet bleiben',
         'login_button' => 'Anmelden',
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
     ],
     'register' => [
         'title' => 'Konto erstellen',
@@ -106,6 +112,7 @@ return [
             'registration_failed' => 'Fehler bei der Registrierung',
             'email_already_exists' => 'Diese E-Mail-Adresse ist bereits registriert',
             'invalid_data' => 'Ungültige Daten',
+<<<<<<< HEAD
 
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
@@ -225,11 +232,16 @@ return [
             'invalid_data' => 'Dati non validi',
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
         ],
     ],
     'password' => [
         'reset' => [
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
             'title' => 'Passwort zurücksetzen',
             'subtitle' => 'Geben Sie Ihre E-Mail-Adresse ein, um den Passwort-Reset-Link zu erhalten',
             'description' => 'Geben Sie Ihre E-Mail-Adresse ein, um den Passwort-Reset-Link zu erhalten',
@@ -266,6 +278,7 @@ return [
             ],
             'help' => [
                 'having_trouble' => 'Probleme beim Zurücksetzen?',
+<<<<<<< HEAD
             'title' => 'Reimposta password',
             'subtitle' => 'Inserisci il tuo indirizzo email per ricevere il link di reimpostazione password',
             'description' => 'Inserisci il tuo indirizzo email per ricevere il link di reimpostazione password',
@@ -304,12 +317,17 @@ return [
                 'having_trouble' => 'Problemi con il reset?',
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
             ],
         ],
     ],
     'password-reset' => [
         'submit' => [
+<<<<<<< HEAD
 >>>>>>> cbfae69 (.)
+=======
+>>>>>>> d7ab3bb (.)
             'label' => 'Passwort-Reset-Link senden',
         ],
     ],
@@ -348,6 +366,7 @@ return [
         'loading_failed' => 'Ladefehler',
         'please_refresh' => 'Ein Fehler ist aufgetreten. Aktualisieren Sie die Seite und versuchen Sie es erneut.',
     ],
+<<<<<<< HEAD
 ];
             'label' => 'Invia link di reset password',
         ],
@@ -390,3 +409,6 @@ return [
 ];
 >>>>>>> a14d070 (.)
 >>>>>>> cbfae69 (.)
+=======
+];
+>>>>>>> d7ab3bb (.)

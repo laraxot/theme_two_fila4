@@ -80,5 +80,9 @@ return [
         'icon' => 'heroicon-o-pause-circle',
         'hex_color' => '#dc2626',
     ],
+<<<<<<< HEAD
 ];
 
+=======
+];
+>>>>>>> d7ab3bb (.)
