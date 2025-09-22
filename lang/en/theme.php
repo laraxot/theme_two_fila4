@@ -6,6 +6,9 @@ return [
     'nav' => [
         'menu' => 'Menu',
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cbfae69 (.)
         'close' => 'Close',
         'home' => 'Home',
         'about' => 'About Us',
@@ -22,6 +25,7 @@ return [
         'back_to_top' => 'Back to Top',
     ],
     'form' => [
+<<<<<<< HEAD
 =======
         'close' => 'Chiudi',
         'home' => 'Home',
@@ -44,6 +48,8 @@ return [
     'form' => [
 
 >>>>>>> a14d070 (.)
+=======
+>>>>>>> cbfae69 (.)
         'required' => 'Required field',
         'email' => 'Please enter a valid email address',
         'min' => 'The field must contain at least :min characters',
@@ -60,6 +66,9 @@ return [
         'select' => 'Select',
         'choose' => 'Choose...',
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cbfae69 (.)
     ],
     'messages' => [
         'success' => 'Operation completed successfully',
@@ -82,6 +91,7 @@ return [
         'cookies' => 'Cookie Policy',
         'social' => [
             'follow' => 'Follow us on',
+<<<<<<< HEAD
 =======
 
         'required' => 'Campo obbligatorio',
@@ -123,6 +133,8 @@ return [
         'social' => [
             'follow' => 'Seguici su',
 >>>>>>> a14d070 (.)
+=======
+>>>>>>> cbfae69 (.)
             'facebook' => 'Facebook',
             'twitter' => 'Twitter',
             'instagram' => 'Instagram',
@@ -132,6 +144,9 @@ return [
     'errors' => [
         404 => [
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> cbfae69 (.)
             'title' => 'Page not found',
             'message' => 'The page you are looking for does not exist',
         ],
@@ -149,6 +164,7 @@ return [
         ],
     ],
 ];
+<<<<<<< HEAD
 =======
             'title' => 'Pagina non trovata',
             'message' => 'La pagina che stai cercando non esiste',
@@ -168,3 +184,5 @@ return [
     ],
 ];
 >>>>>>> a14d070 (.)
+=======
+>>>>>>> cbfae69 (.)
