@@ -5,10 +5,6 @@ declare(strict_types=1);
 return [
     'nav' => [
         'menu' => 'Menu',
-<<<<<<< HEAD
->>>>>>> cbfae69 (.)
-=======
->>>>>>> d7ab3bb (.)
         'close' => 'Close',
         'home' => 'Home',
         'about' => 'About Us',
@@ -25,31 +21,6 @@ return [
         'back_to_top' => 'Back to Top',
     ],
     'form' => [
-<<<<<<< HEAD
-        'close' => 'Chiudi',
-        'home' => 'Home',
-        'about' => 'Chi Siamo',
-        'services' => 'Servizi',
-        'contact' => 'Contatti',
-
-        'login' => 'Login',
-        'login' => 'Accedi',
-        'login' => 'Accedi',
-        'register' => 'Registrati',
-        'profile' => 'Profilo',
-        'logout' => 'Esci',
-        'search' => 'Cerca',
-        'toggle_menu' => 'Apri/Chiudi Menu',
-        'toggle_search' => 'Apri/Chiudi Ricerca',
-        'toggle_theme' => 'Cambia Tema',
-        'back_to_top' => 'Torna su',
-    ],
-    'form' => [
-
->>>>>>> a14d070 (.)
->>>>>>> cbfae69 (.)
-=======
->>>>>>> d7ab3bb (.)
         'required' => 'Required field',
         'email' => 'Please enter a valid email address',
         'min' => 'The field must contain at least :min characters',
@@ -65,10 +36,6 @@ return [
         'reset' => 'Reset',
         'select' => 'Select',
         'choose' => 'Choose...',
-<<<<<<< HEAD
->>>>>>> cbfae69 (.)
-=======
->>>>>>> d7ab3bb (.)
     ],
     'messages' => [
         'success' => 'Operation completed successfully',
@@ -91,50 +58,6 @@ return [
         'cookies' => 'Cookie Policy',
         'social' => [
             'follow' => 'Follow us on',
-<<<<<<< HEAD
-
-        'required' => 'Campo obbligatorio',
-        'email' => 'Inserisci un indirizzo email valido',
-        'min' => 'Il campo deve contenere almeno :min caratteri',
-        'max' => 'Il campo non può superare :max caratteri',
-        'submit' => 'Invia',
-        'cancel' => 'Annulla',
-        'save' => 'Salva',
-        'delete' => 'Elimina',
-        'edit' => 'Modifica',
-        'view' => 'Visualizza',
-        'search' => 'Cerca...',
-        'filter' => 'Filtra',
-        'reset' => 'Reimposta',
-        'select' => 'Seleziona',
-        'choose' => 'Scegli...',
-
-    ],
-    'messages' => [
-        'success' => 'Operazione completata con successo',
-        'error' => 'Si è verificato un errore',
-        'warning' => 'Attenzione',
-        'info' => 'Informazione',
-        'loading' => 'Caricamento in corso...',
-        'no_results' => 'Nessun risultato trovato',
-        'confirm_delete' => 'Sei sicuro di voler eliminare questo elemento?',
-        'yes' => 'Sì',
-        'no' => 'No',
-        'cookie_consent' => 'Questo sito utilizza i cookie per migliorare la tua esperienza',
-        'accept' => 'Accetta',
-        'decline' => 'Rifiuta',
-    ],
-    'footer' => [
-        'copyright' => 'Tutti i diritti riservati',
-        'privacy' => 'Privacy',
-        'terms' => 'Termini e Condizioni',
-        'cookies' => 'Cookie Policy',
-        'social' => [
-            'follow' => 'Seguici su',
->>>>>>> a14d070 (.)
->>>>>>> cbfae69 (.)
-=======
->>>>>>> d7ab3bb (.)
             'facebook' => 'Facebook',
             'twitter' => 'Twitter',
             'instagram' => 'Instagram',
@@ -143,10 +66,6 @@ return [
     ],
     'errors' => [
         404 => [
-<<<<<<< HEAD
->>>>>>> cbfae69 (.)
-=======
->>>>>>> d7ab3bb (.)
             'title' => 'Page not found',
             'message' => 'The page you are looking for does not exist',
         ],
@@ -163,27 +82,4 @@ return [
             'message' => 'You are not connected to the Internet',
         ],
     ],
-<<<<<<< HEAD
 ];
-            'title' => 'Pagina non trovata',
-            'message' => 'La pagina che stai cercando non esiste',
-        ],
-        500 => [
-            'title' => 'Errore del server',
-            'message' => 'Si è verificato un errore interno del server',
-        ],
-        403 => [
-            'title' => 'Accesso negato',
-            'message' => 'Non hai i permessi per accedere a questa pagina',
-        ],
-        'offline' => [
-            'title' => 'Offline',
-            'message' => 'Non sei connesso a Internet',
-        ],
-    ],
-];
->>>>>>> a14d070 (.)
->>>>>>> cbfae69 (.)
-=======
-];
->>>>>>> d7ab3bb (.)
