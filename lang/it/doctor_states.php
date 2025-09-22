@@ -6,154 +6,69 @@ return [
     'active' => [
         'label' => 'Attivo',
         'color' => 'success',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Utente attivo e operativo nel sistema',
         'icon' => 'heroicon-o-check-circle',
         'hex_color' => '#10b981',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Utente attivo e operativo nel sistema',
-        'icon' => 'heroicon-o-check-circle',
-        'hex_color' => '#10b981',
->>>>>>> cbfae69 (.)
     ],
     'inactive' => [
         'label' => 'Inattivo',
         'color' => 'danger',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Utente non attivo, accesso disabilitato',
         'icon' => 'heroicon-o-x-circle',
         'hex_color' => '#ef4444',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Utente non attivo, accesso disabilitato',
-        'icon' => 'heroicon-o-x-circle',
-        'hex_color' => '#ef4444',
->>>>>>> cbfae69 (.)
     ],
     'pending' => [
         'label' => 'In attesa',
         'color' => 'warning',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Registrazione in attesa di approvazione',
         'icon' => 'heroicon-o-clock',
         'hex_color' => '#f59e0b',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Registrazione in attesa di approvazione',
-        'icon' => 'heroicon-o-clock',
-        'hex_color' => '#f59e0b',
->>>>>>> cbfae69 (.)
     ],
     'rejected' => [
         'label' => 'Rifiutato',
         'color' => 'danger',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Registrazione rifiutata dal sistema',
         'icon' => 'heroicon-o-x-circle',
         'hex_color' => '#dc2626',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Registrazione rifiutata dal sistema',
-        'icon' => 'heroicon-o-x-circle',
-        'hex_color' => '#dc2626',
->>>>>>> cbfae69 (.)
     ],
     'integration_requested' => [
         'label' => 'Richiesta di integrazione',
         'color' => 'warning',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Richiesta di integrazione in attesa di elaborazione',
         'icon' => 'heroicon-o-arrow-path',
         'hex_color' => '#d97706',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Richiesta di integrazione in attesa di elaborazione',
-        'icon' => 'heroicon-o-arrow-path',
-        'hex_color' => '#d97706',
->>>>>>> cbfae69 (.)
     ],
     'integration_approved' => [
         'label' => 'Integrazione approvata',
         'color' => 'success',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Richiesta di integrazione approvata',
         'icon' => 'heroicon-o-check-circle',
         'hex_color' => '#059669',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Richiesta di integrazione approvata',
-        'icon' => 'heroicon-o-check-circle',
-        'hex_color' => '#059669',
->>>>>>> cbfae69 (.)
     ],
     'integration_rejected' => [
         'label' => 'Integrazione rifiutata',
         'color' => 'danger',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Richiesta di integrazione respinta',
         'icon' => 'heroicon-o-x-circle',
         'hex_color' => '#dc2626',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Richiesta di integrazione respinta',
-        'icon' => 'heroicon-o-x-circle',
-        'hex_color' => '#dc2626',
->>>>>>> cbfae69 (.)
     ],
     'integration_pending' => [
         'label' => 'Integrazione in attesa',
         'color' => 'warning',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Integrazione in attesa di elaborazione',
         'icon' => 'heroicon-o-hourglass',
         'hex_color' => '#d97706',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Integrazione in attesa di elaborazione',
-        'icon' => 'heroicon-o-hourglass',
-        'hex_color' => '#d97706',
->>>>>>> cbfae69 (.)
     ],
     'integration_completed' => [
         'label' => 'Integrazione completata',
         'color' => 'success',
-<<<<<<< HEAD
-<<<<<<< HEAD
         'description' => 'Processo di integrazione completato con successo',
         'icon' => 'heroicon-o-check-circle',
         'hex_color' => '#10b981',
-=======
->>>>>>> a14d070 (.)
-=======
-        'description' => 'Processo di integrazione completato con successo',
-        'icon' => 'heroicon-o-check-circle',
-        'hex_color' => '#10b981',
->>>>>>> cbfae69 (.)
     ],
     'integration_cancelled' => [
         'label' => 'Integrazione annullata',
         'color' => 'danger',
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> cbfae69 (.)
         'description' => 'Processo di integrazione annullato',
         'icon' => 'heroicon-o-no-symbol',
         'hex_color' => '#ef4444',
@@ -164,11 +79,6 @@ return [
         'description' => 'Utente temporaneamente sospeso dal sistema',
         'icon' => 'heroicon-o-pause-circle',
         'hex_color' => '#dc2626',
-<<<<<<< HEAD
-=======
->>>>>>> a14d070 (.)
     ],
 ];
-=======
-    ],
->>>>>>> cbfae69 (.)
+

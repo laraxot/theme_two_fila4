@@ -4,9 +4,6 @@ declare(strict_types=1);
 
 return [
     'nav' => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
         'menu' => 'Menü',
         'close' => 'Schließen',
@@ -30,8 +27,6 @@ return [
         'min' => 'Das Feld muss mindestens :min Zeichen enthalten',
         'max' => 'Das Feld darf nicht mehr als :max Zeichen enthalten',
         'submit' => 'Absenden',
-<<<<<<< HEAD
-=======
         'menu' => 'Menu',
         'close' => 'Chiudi',
         'home' => 'Home',
@@ -59,7 +54,6 @@ return [
         'max' => 'Das Feld darf :max Zeichen nicht überschreiten',
         'submit' => 'Senden',
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
         'cancel' => 'Abbrechen',
         'save' => 'Speichern',
@@ -71,9 +65,6 @@ return [
         'reset' => 'Zurücksetzen',
         'select' => 'Auswählen',
         'choose' => 'Wählen...',
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
     ],
     'messages' => [
@@ -97,8 +88,6 @@ return [
         'cookies' => 'Cookie-Richtlinie',
         'social' => [
             'follow' => 'Folgen Sie uns auf',
-<<<<<<< HEAD
-=======
 
         'required' => 'Campo obbligatorio',
         'email' => 'Inserisci un indirizzo email valido',
@@ -139,7 +128,6 @@ return [
         'social' => [
             'follow' => 'Seguici su',
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
             'facebook' => 'Facebook',
             'twitter' => 'Twitter',
@@ -149,9 +137,6 @@ return [
     ],
     'errors' => [
         404 => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
             'title' => 'Seite nicht gefunden',
             'message' => 'Die gesuchte Seite existiert nicht',
@@ -170,8 +155,6 @@ return [
         ],
     ],
 ];
-<<<<<<< HEAD
-=======
             'title' => 'Pagina non trovata',
             'message' => 'La pagina che stai cercando non esiste',
         ],
@@ -190,5 +173,4 @@ return [
     ],
 ];
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)

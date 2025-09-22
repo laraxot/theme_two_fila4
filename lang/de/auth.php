@@ -4,12 +4,8 @@ declare(strict_types=1);
 
 return [
     'login' => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
         'title' => 'Anmelden bei Ihrem Konto',
         'or' => 'oder',
@@ -20,9 +16,6 @@ return [
         'password' => 'Passwort',
         'remember_me' => 'Angemeldet bleiben',
         'login_button' => 'Anmelden',
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
     ],
     'register' => [
@@ -113,8 +106,6 @@ return [
             'registration_failed' => 'Fehler bei der Registrierung',
             'email_already_exists' => 'Diese E-Mail-Adresse ist bereits registriert',
             'invalid_data' => 'Ungültige Daten',
-<<<<<<< HEAD
-=======
 
         'title' => 'Accedi al tuo account',
         'or' => 'oppure',
@@ -233,15 +224,11 @@ return [
             'email_already_exists' => 'Questa email è già registrata',
             'invalid_data' => 'Dati non validi',
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
         ],
     ],
     'password' => [
         'reset' => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
             'title' => 'Passwort zurücksetzen',
             'subtitle' => 'Geben Sie Ihre E-Mail-Adresse ein, um den Passwort-Reset-Link zu erhalten',
@@ -279,8 +266,6 @@ return [
             ],
             'help' => [
                 'having_trouble' => 'Probleme beim Zurücksetzen?',
-<<<<<<< HEAD
-=======
             'title' => 'Reimposta password',
             'subtitle' => 'Inserisci il tuo indirizzo email per ricevere il link di reimpostazione password',
             'description' => 'Inserisci il tuo indirizzo email per ricevere il link di reimpostazione password',
@@ -318,16 +303,12 @@ return [
             'help' => [
                 'having_trouble' => 'Problemi con il reset?',
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
             ],
         ],
     ],
     'password-reset' => [
         'submit' => [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 >>>>>>> cbfae69 (.)
             'label' => 'Passwort-Reset-Link senden',
         ],
@@ -368,8 +349,6 @@ return [
         'please_refresh' => 'Ein Fehler ist aufgetreten. Aktualisieren Sie die Seite und versuchen Sie es erneut.',
     ],
 ];
-<<<<<<< HEAD
-=======
             'label' => 'Invia link di reset password',
         ],
     ],
@@ -410,5 +389,4 @@ return [
     ],
 ];
 >>>>>>> a14d070 (.)
-=======
 >>>>>>> cbfae69 (.)
