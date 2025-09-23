@@ -1,5 +1,9 @@
 <?php
 
+use FilamentTiptapEditor\Actions\MediaAction;
+use FilamentTiptapEditor\Actions\LinkAction;
+use FilamentTiptapEditor\Enums\TiptapOutput;
+
 return [
     'direction' => 'ltr',
     'max_content_width' => '5xl',
@@ -32,9 +36,9 @@ return [
     |--------------------------------------------------------------------------
     |
     */
-    'media_action' => FilamentTiptapEditor\Actions\MediaAction::class,
+    'media_action' => MediaAction::class,
     //    'media_action' => Awcodes\Curator\Actions\MediaAction::class,
-    'link_action' => FilamentTiptapEditor\Actions\LinkAction::class,
+    'link_action' => LinkAction::class,
 
     /*
     |--------------------------------------------------------------------------
@@ -45,7 +49,7 @@ return [
     |
     | See: https://tiptap.dev/guide/output
     */
-    'output' => FilamentTiptapEditor\Enums\TiptapOutput::Html,
+    'output' => TiptapOutput::Html,
 
     /*
     |--------------------------------------------------------------------------

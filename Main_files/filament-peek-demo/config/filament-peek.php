@@ -1,5 +1,7 @@
 <?php
 
+use Pboivin\FilamentPeek\Livewire\BuilderEditor;
+
 return [
 
     /*
@@ -133,7 +135,7 @@ return [
         'autoRefreshStrategy' => 'simple',
 
         // Livewire component for the sidebar.
-        'livewireComponentClass' => \Pboivin\FilamentPeek\Livewire\BuilderEditor::class,
+        'livewireComponentClass' => BuilderEditor::class,
 
     ],
 
