@@ -4,52 +4,52 @@ declare(strict_types=1);
 
 return [
     'active' => [
-        'label' => 'Active',
+        'label' => 'Attivo',
         'color' => 'success',
     ],
     'inactive' => [
-        'label' => 'Inactive',
+        'label' => 'Inattivo',
         'color' => 'danger',
     ],
     'pending' => [
-        'label' => 'Pending',
+        'label' => 'In attesa',
         'color' => 'warning',
     ],
     'rejected' => [
-        'label' => 'Rejected',
+        'label' => 'Rifiutato',
         'color' => 'danger',
     ],
     'integration_requested' => [
-        'label' => 'Integration Requested',
+        'label' => 'Richiesta di integrazione',
         'color' => 'warning',
     ],
     'integration_approved' => [
-        'label' => 'Integration Approved',
+        'label' => 'Integrazione approvata',
         'color' => 'success',
     ],
     'integration_rejected' => [
-        'label' => 'Integration Rejected',
+        'label' => 'Integrazione rifiutata',
         'color' => 'danger',
     ],
     'integration_pending' => [
-        'label' => 'Integration Pending',
+        'label' => 'Integrazione in attesa',
         'color' => 'warning',
     ],
     'integration_completed' => [
-        'label' => 'Integration Completed',
+        'label' => 'Integrazione completata',
         'color' => 'success',
     ],
     'integration_cancelled' => [
-        'label' => 'Integration Cancelled',
+        'label' => 'Integrazione annullata',
         'color' => 'danger',
     ],
-<<<<<<< HEAD
-=======
 
->>>>>>> a14d070 (.)
     'suspended' => [
-        'label' => 'Suspended',
+        'label' => 'Sospeso',
         'color' => 'warning',
     ],
 
+=======
+=======
+=======
 ];
