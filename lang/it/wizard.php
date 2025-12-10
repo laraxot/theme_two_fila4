@@ -1,8 +1,4 @@
 <?php
-<<<<<<< HEAD
-
-=======
->>>>>>> a14d070 (.)
 declare(strict_types=1);
 
 return [
