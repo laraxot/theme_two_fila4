@@ -16,7 +16,7 @@ return [
     ],
     'register' => [
         'title' => 'Konto erstellen',
-        'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
+        'welcome_message' => 'Willkommen bei <span class=\"font-bold\"><nome progetto></span>',
         'description' => 'Erstellen Sie Ihr Konto, um auf alle Dienste zuzugreifen',
         'already_have_account' => 'Haben Sie bereits ein Konto?',
         'login_link' => 'hier anmelden',
@@ -24,9 +24,9 @@ return [
         'already_registered' => 'Bereits registriert?',
         'doctor' => [
             'title' => 'Zahnarzt-Registrierung',
-            'subtitle' => 'Erstellen Sie Ihr professionelles Konto für den Zugang zur SaluteOra-Plattform',
+            'subtitle' => 'Erstellen Sie Ihr professionelles Konto für den Zugang zur <nome progetto>-Plattform',
             'description' => 'Registrieren Sie sich als Arzt, um Ihre Patienten und Termine zu verwalten',
-            'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
+            'welcome_message' => 'Willkommen bei <span class=\"font-bold\"><nome progetto></span>',
             'info' => [
                 'title' => 'Berufliche Informationen',
                 'message' => 'Vervollständigen Sie die beruflichen Informationen, um Ihre Identität und Spezialisierung zu überprüfen',
@@ -47,7 +47,7 @@ return [
             'title' => 'Patienten-Registrierung',
             'subtitle' => 'Erstellen Sie Ihr Konto, um Termine zu buchen und Ihre Gesundheit zu verwalten',
             'description' => 'Registrieren Sie sich als Patient, um auf Gesundheitsdienste zuzugreifen',
-            'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
+            'welcome_message' => 'Willkommen bei <span class=\"font-bold\"><nome progetto></span>',
             'phone_label' => 'Telefonnummer',
             'phone_placeholder' => 'Geben Sie Ihre Telefonnummer ein',
             'date_of_birth_label' => 'Geburtsdatum',
@@ -62,7 +62,7 @@ return [
             'title' => 'Administrator-Registrierung',
             'subtitle' => 'Erstellen Sie Ihr Verwaltungskonto zur Verwaltung der Plattform',
             'description' => 'Registrieren Sie sich als Administrator, um Benutzer und Konfigurationen zu verwalten',
-            'welcome_message' => 'Willkommen bei <span class=\"font-bold\">SaluteOra</span>',
+            'welcome_message' => 'Willkommen bei <span class=\"font-bold\"><nome progetto></span>',
             'role_label' => 'Administrative Rolle',
             'role_placeholder' => 'Wählen Sie Ihre Rolle',
             'phone_label' => 'Telefonnummer',

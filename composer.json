@@ -1,17 +1,17 @@
 {
-    "name": "saluteora/theme-two",
-    "description": "Tema Two per SaluteOra",
+    "name": "<nome progetto>/theme-two",
+    "description": "Tema Two per <nome progetto>",
     "type": "theme",
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "SaluteOra\\Themes\\Two\\": "src/"
+            "<nome progetto>\\Themes\\Two\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "SaluteOra\\Themes\\Two\\ThemeServiceProvider"
+                "<nome progetto>\\Themes\\Two\\ThemeServiceProvider"
             ]
         }
     },
