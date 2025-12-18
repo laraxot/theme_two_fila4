@@ -1,7 +1,7 @@
 <?php
 
 use function Livewire\Volt\{state, mount};
-use App\Models\User;
+use Modules\User\Models\User;
 use App\Models\Post;
 
 state([

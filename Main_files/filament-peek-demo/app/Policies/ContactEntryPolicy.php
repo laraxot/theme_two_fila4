@@ -4,7 +4,7 @@ namespace App\Policies;
 
 use Illuminate\Auth\Access\Response;
 use App\Models\ContactEntry;
-use App\Models\User;
+use Modules\User\Models\User;
 use Illuminate\Auth\Access\HandlesAuthorization;
 
 class ContactEntryPolicy
