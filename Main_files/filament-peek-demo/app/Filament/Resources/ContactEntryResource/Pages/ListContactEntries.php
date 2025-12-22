@@ -3,9 +3,9 @@
 namespace App\Filament\Resources\ContactEntryResource\Pages;
 
 use App\Filament\Resources\ContactEntryResource;
-use Filament\Resources\Pages\ListRecords;
+use Modules\Xot\Filament\Resources\Pages\XotBaseListRecords;
 
-class ListContactEntries extends ListRecords
+class ListContactEntries extends XotBaseListRecords
 {
     protected static string $resource = ContactEntryResource::class;
 

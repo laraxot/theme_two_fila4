@@ -3,9 +3,9 @@
 namespace App\Filament\Resources\PageResource\Pages;
 
 use App\Filament\Resources\PageResource;
-use Filament\Resources\Pages\CreateRecord;
+use Modules\Xot\Filament\Resources\Pages\XotBaseCreateRecord;
 
-class CreatePage extends CreateRecord
+class CreatePage extends XotBaseCreateRecord
 {
     use HasPagePreview;
 

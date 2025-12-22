@@ -4,9 +4,9 @@ namespace App\Filament\Resources\MenuResource\Pages;
 
 use App\Filament\Resources\MenuResource;
 use Filament\Actions\CreateAction;
-use Filament\Resources\Pages\ListRecords;
+use Modules\Xot\Filament\Resources\Pages\XotBaseListRecords;
 
-class ListMenus extends ListRecords
+class ListMenus extends XotBaseListRecords
 {
     protected static string $resource = MenuResource::class;
 

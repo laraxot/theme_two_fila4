@@ -5,9 +5,9 @@ namespace App\Filament\Resources\ContactEntryResource\Pages;
 use App\Filament\Resources\ContactEntryResource;
 use Filament\Actions\DeleteAction;
 use Filament\Actions\ViewAction;
-use Filament\Resources\Pages\EditRecord;
+use Modules\Xot\Filament\Resources\Pages\XotBaseEditRecord;
 
-class EditContactEntry extends EditRecord
+class EditContactEntry extends XotBaseEditRecord
 {
     protected static string $resource = ContactEntryResource::class;
 

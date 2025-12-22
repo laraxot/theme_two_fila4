@@ -13,7 +13,7 @@ use App\Filament\Resources\ContactEntryResource\Pages\ViewContactEntry;
 use App\Filament\Resources\ContactEntryResource\Pages;
 use App\Models\ContactEntry;
 use Filament\Infolists;
-use Filament\Resources\Resource;
+use Modules\Xot\Filament\Resources\XotBaseResource as Resource;
 use Filament\Tables;
 use Filament\Tables\Table;
 use Illuminate\Support\HtmlString;

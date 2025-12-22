@@ -3,9 +3,9 @@
 namespace App\Filament\Resources\PostResource\Pages;
 
 use App\Filament\Resources\PostResource;
-use Filament\Resources\Pages\CreateRecord;
+use Modules\Xot\Filament\Resources\Pages\XotBaseCreateRecord;
 
-class CreatePost extends CreateRecord
+class CreatePost extends XotBaseCreateRecord
 {
     use HasPostPreview;
 

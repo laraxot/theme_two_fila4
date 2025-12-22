@@ -3,9 +3,9 @@
 namespace App\Filament\Resources\PageResource\Pages;
 
 use App\Filament\Resources\PageResource;
-use Filament\Resources\Pages\EditRecord;
+use Modules\Xot\Filament\Resources\Pages\XotBaseEditRecord;
 
-class EditPage extends EditRecord
+class EditPage extends XotBaseEditRecord
 {
     use HasPagePreview;
 

@@ -3,9 +3,9 @@
 namespace App\Filament\Resources\MenuResource\Pages;
 
 use App\Filament\Resources\MenuResource;
-use Filament\Resources\Pages\EditRecord;
+use Modules\Xot\Filament\Resources\Pages\XotBaseEditRecord;
 
-class EditMenu extends EditRecord
+class EditMenu extends XotBaseEditRecord
 {
     protected static string $resource = MenuResource::class;
 
