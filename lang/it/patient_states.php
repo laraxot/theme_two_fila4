@@ -47,8 +47,4 @@ return [
         'label' => 'Sospeso',
         'color' => 'warning',
     ],
-<<<<<<< HEAD
 ];
-=======
-];
->>>>>>> d7ab3bb (.)

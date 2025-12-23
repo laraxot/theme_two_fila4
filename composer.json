@@ -21,13 +21,8 @@
         "filament/filament": "*"
     },
     "require-dev": {
-<<<<<<< HEAD
-        "phpstan/phpstan": "*",
-        "pestphp/pest": "*"
-=======
         "phpstan/phpstan": "^1.10",
         "pestphp/pest": "^2.0"
->>>>>>> d7ab3bb (.)
     },
     "minimum-stability": "dev"
 }
