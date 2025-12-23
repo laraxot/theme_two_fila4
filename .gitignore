@@ -39,11 +39,4 @@ vendor/
 *.bak
 *.bakcup
 *.backup.*
-<<<<<<< HEAD
-<<<<<<< HEAD
 node_modules
-=======
->>>>>>> a14d070 (.)
-=======
-node_modules
->>>>>>> cbfae69 (.)
