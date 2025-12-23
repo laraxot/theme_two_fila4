@@ -44,9 +44,12 @@ return [
         'color' => 'danger',
     ],
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> a14d070 (.)
+=======
+>>>>>>> cbfae69 (.)
     'suspended' => [
         'label' => 'Suspended',
         'color' => 'warning',
